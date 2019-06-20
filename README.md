@@ -9,7 +9,6 @@
 ## Crear repositorio
 
 ```
-
 echo "# Título" >> README.md
 git init
 git add .
@@ -17,21 +16,16 @@ git commit -m "Primer commit"
 git remote add origin url...
 git remote -v
 git push -u origin master
-
 ```
 
 ## Comprobar versión Git
 
 ```
-
 git --version
-
 ```
 
 ## Clonar repositorio
 
 ```
-
 git clone urlRepositorio...
-
 ```
