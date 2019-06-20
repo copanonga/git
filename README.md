@@ -35,5 +35,9 @@ git clone urlRepositorio...
 ## Publicar web con GitHub Pages
 
 ```
+ - Crear repositorio
+ - Ir a Settings y habilitar GitHub Pages en master
+ 
+  El sitio se publicará en username.github.io/nombredelrepositoriocreado
 
 ```
