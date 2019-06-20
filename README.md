@@ -3,6 +3,7 @@
 ## Índice de contenidos
 
 - [Crear repositorio](#crear-repositorio)
+- [Comprobar versión Git](#comprobar-version-git)
 
 ## Crear repositorio
 
@@ -17,3 +18,12 @@ git remote -v
 git push -u origin master
 
 ```
+
+## Comprobar versión Git
+
+```
+
+git --version
+
+```
+
