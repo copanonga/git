@@ -4,6 +4,7 @@
 
 - [Crear repositorio](#crear-repositorio)
 - [Comprobar versión Git](#comprobar-version-git)
+- [Clonar repositorio](#clonar-repositorio)
 
 ## Crear repositorio
 
@@ -27,3 +28,10 @@ git --version
 
 ```
 
+## Clonar repositorio
+
+```
+
+git clone urlRepositorio...
+
+```
