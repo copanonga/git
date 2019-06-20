@@ -5,6 +5,8 @@
 - [Crear repositorio](#crear-repositorio)
 - [Comprobar versión Git](#comprobar-version-git)
 - [Clonar repositorio](#clonar-repositorio)
+- [Publicar web con GitHub Pages](#publicar-web-con-github-pages)
+
 
 ## Crear repositorio
 
@@ -28,4 +30,10 @@ git --version
 
 ```
 git clone urlRepositorio...
+```
+
+## Publicar web con GitHub Pages
+
+```
+
 ```
