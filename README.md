@@ -6,6 +6,7 @@
 - [Comprobar versión Git](#comprobar-version-git)
 - [Clonar repositorio](#clonar-repositorio)
 - [Publicar web con GitHub Pages](#publicar-web-con-github-pages)
+- [Transferir repositorio de Bitbucket a Github](#transferir-repositorio-de-bitbucket-a-github)
 
 
 ## Crear repositorio
@@ -40,4 +41,8 @@ git clone urlRepositorio...
  
   El sitio se publicará en username.github.io/nombredelrepositoriocreado
 
+```
+
+Transferir repositorio de Bitbucket a Github
+```
 ```
