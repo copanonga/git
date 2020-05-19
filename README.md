@@ -48,7 +48,7 @@ git clone urlRepositorio...
 ```
 cd $HOME/directoriodelrepositorio
 $ git remote rename origin bitbucket
-$ git remote add origin rutadelrepositorioengit
+$ git remote add origin rutadelrepositorioengithub
 $ git push origin master
 $ git remote rm bitbucket
 ```
