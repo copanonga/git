@@ -43,7 +43,7 @@ git clone urlRepositorio...
 
 ```
 
-Transferir repositorio de Bitbucket a Github
+## Transferir repositorio de Bitbucket a Github
 
 ```
 cd $HOME/directoriodelrepositorio
