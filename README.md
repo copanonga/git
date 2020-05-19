@@ -44,5 +44,11 @@ git clone urlRepositorio...
 ```
 
 Transferir repositorio de Bitbucket a Github
+
 ```
+cd $HOME/directoriodelrepositorio
+$ git remote rename origin bitbucket
+$ git remote add origin rutadelrepositorioengit
+$ git push origin master
+$ git remote rm bitbucket
 ```
