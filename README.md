@@ -56,7 +56,15 @@ $ git remote rm bitbucket
 
 ## Configurar usuario repositorio
 
+Configuración global del usuario:
 ```
 $ git config --global user.name "Nombre del usuario"
 $ git config --global user.email "correo@ejemplo.es"
+```
+
+Configuración para un respositorio específico:
+```
+$ git config user.name "Nombre del usuario"
+$ git config user.email "correo@ejemplo.es"
+cat .git/config
 ```
