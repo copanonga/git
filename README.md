@@ -7,6 +7,7 @@
 - [Clonar repositorio](#clonar-repositorio)
 - [Publicar web con GitHub Pages](#publicar-web-con-github-pages)
 - [Transferir repositorio de Bitbucket a Github](#transferir-repositorio-de-bitbucket-a-github)
+- [Configurar usuario repositorio](#configurar-usuario-repositorio)
 
 
 ## Crear repositorio
@@ -51,4 +52,11 @@ $ git remote rename origin bitbucket
 $ git remote add origin rutadelrepositorioengithub
 $ git push origin master
 $ git remote rm bitbucket
+```
+
+## Configurar usuario repositorio
+
+```
+$ git config --global user.name "Nombre del usuario"
+$ git config --global user.email "correo@ejemplo.es"
 ```
